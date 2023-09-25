@@ -7,3 +7,6 @@ What are packets and frames? In simple terms, packets and frames are small chunk
 But, when we talk about IP addresses getting involved we are usually talking about ***packets***. Packets are used to communicate data across multiple networking devices. Since packets are small pieces of data, the chance for bottlenecking in the network is reduced. 
 
 One example of this is when you send a large picture across a network. You would think that the image is sent as one but you would be wrong. It is actually sent in small packets and then reassembled at the destination. 
+
+## TCP / IP (3-Way Handhsake)
+
