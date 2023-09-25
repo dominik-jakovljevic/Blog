@@ -36,8 +36,8 @@ Layers of the OSI Model:
 
     Below is a table of the advantages and disadvantages of TCP: :point_down:
 
-    | Advantages  | Disadvantages |
-    | ----------- | ------------- |
+    | Advantages | Disadvantages |
+    | ---------- | ------------- |
     | Accurate Data | If one chunk of data is missing, the data cannot be used |
     | Prevents the flooding of data by synching devices | Slow connection speeds can bottleneck other devices |
     | Is more reliable | TCP is slower than UDP because the decives have to do more things under the TCP protocol |
