@@ -10,3 +10,12 @@ One example of this is when you send a large picture across a network. You would
 
 ## TCP / IP (3-Way Handshake)
 
+Transmission Control Protocol (TCP) is another rule that we using in networking. One cool thing about this certain protocol is that it is similar to the OSI model. This protocol contains 4 layers and seen as a simplified version of the OSI model.
+
+The 4 layers are: 
+
+* Application
+* Transport
+* Internet
+* Network Interface
+
