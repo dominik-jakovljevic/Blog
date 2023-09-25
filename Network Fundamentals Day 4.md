@@ -19,3 +19,9 @@ The 4 layers are:
 * Internet
 * Network Interface
 
+Much like how the OSI model works, data is added to each layer of the protocol which is the process of encapsulation. One of the biggest featuress of the TCP protocol is that it is connection-based which means that the protocol needs to establish a connection from the origin device to another in order for data to be sent. This feature is what guarantee's data to be recieved on the other side which is what we call the ***Three-way handshake***.
+
+Below is a table with the advantages and disadvantages of TCP: :point_down:
+
+
+
