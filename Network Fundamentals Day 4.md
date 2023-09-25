@@ -8,5 +8,5 @@ But, when we talk about IP addresses getting involved we are usually talking abo
 
 One example of this is when you send a large picture across a network. You would think that the image is sent as one but you would be wrong. It is actually sent in small packets and then reassembled at the destination. 
 
-## TCP / IP (3-Way Handhsake)
+## TCP / IP (3-Way Handshake)
 
