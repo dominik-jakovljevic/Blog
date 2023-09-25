@@ -24,4 +24,8 @@ Much like how the OSI model works, data is added to each layer of the protocol w
 Below is a table with the advantages and disadvantages of TCP: :point_down:
 
 
-
+| Advantages | Disadvantages |
+| ---------- | ------------- |
+| Data has integrity | It needs a constant reliable connection in order to transfer data. If the connection times out even once, the data is corrupted |
+| It can synch devices to prevent data flooding in the wrong order| Having a slow connection can bottleneck the other device on the network |
+| Is reliable | TCP is a lot slower than UDP |
