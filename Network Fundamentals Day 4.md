@@ -39,7 +39,7 @@ A table of the special messages is below: :point_down:
 | Step | Message | Description |
 | ---- | ------- | ----------- |
 | 1    | SYN     | Initial packet sent by client. Is used to make the first connection and synch devices |
-| 2    | SYN / ACk | Packet sent from the receiving device to confirm the synch from the client |
+| 2    | SYN / ACK | Packet sent from the receiving device to confirm the synch from the client |
 | 3    | ACK     | Acknowledgement packet that is used by either client or server to acknowledge that packets have been recieved |
 | 4    | DATA    | When a connection is established, data is sent |
 | 5    | FIN     | Once the connection is finished, it is then closed properly |
