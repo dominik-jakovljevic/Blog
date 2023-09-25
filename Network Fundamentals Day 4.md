@@ -31,3 +31,17 @@ Below is a table with the advantages and disadvantages of TCP: :point_down:
 | Is reliable | TCP is a lot slower than UDP |
 
 Additionally, TCP packets have ***headers*** that were added onto them during encapsulation. This is done in order to add additional pieces of data to the packets.
+
+In order to create a connection between devices, something called the Three-way handshake has to happen. This is done by using special messages.
+
+A table of the special messages is below: :point_down:
+
+| Step | Message | Description |
+| ---- | ------- | ----------- |
+| 1    | SYN     | Initial packet sent by client. Is used to make the first connection and synch devices |
+| 2    | SYN / ACk | Packet sent from the receiving device to confirm the synch from the client |
+| 3    | ACK     | Acknowledgement packet that is used by either client or server to acknowledge that packets have been recieved |
+| 4    | DATA    | When a connection is established, data is sent |
+| 5    | FIN     | Once the connection is finished, it is then closed properly |
+| #    | RST     | This packet ends all communication. This indicates there was a problem somewhere |
+
