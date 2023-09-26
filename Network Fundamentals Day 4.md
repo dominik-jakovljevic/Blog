@@ -61,3 +61,16 @@ Below is a table of the advantages and disadvantages of using UDP: :point_down:
 | UDP gives the application layer the ability to decide how quickly packets will be sent out | It lets developers bend the rules of the protocol |
 | A constant connection is not needed | Bad connections result in a bad user experience |
 
+The UDP protocol and the packets that comes from the protocol are a lot simpler than TCP packets. One thing that these two protocols have in common is that they both share some similar headers. 
+
+Below is a table of the headers that both protocols share: :point_down:
+
+| Header | Description |
+| ------ | ----------- |
+| Time to Live (TTL) | Sets an expiration for the packet. If it doesn't reach its intended destination it will be removed so it doesn't slow down the network. |
+| Source Address | IP address of the device where the packet is coming from |
+| Destination Address | IP address of the device where the packing is going to |
+| Source Port | The port that is opended by the device sending data in order to send the UDP packet. This port value is random |
+| Destination Port | The port number that the application or service is running on the remote host. An example of this would be a server running on a specific port. This port number is not chosen at randmom. |
+| Data | The header where the data of a file is stored |
+
