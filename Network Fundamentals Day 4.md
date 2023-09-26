@@ -76,4 +76,16 @@ Below is a table of the headers that both protocols share: :point_down:
 
 ## Ports
 
-What is a ***port***? 
+What is a ***port***? Networking devices use ports in order to enforce strict rules when talking to each other. Once the connection is made, all the data coming to and from the device will be traveling through these ports. Ports can be numbered anywhere from 0 to 65535. Because of these wide range of numbers it becomes tough to keep track of all the applications and which ports they are running through. One way we mitigate any confusion is by assigning certain applications to certain ports. For example, web browsers run on port 80. This means that all of the data for the web browsers will be coming through port 80. All ports that are between 0-1024 are what we call ***common ports***.
+
+Below is a table of certain protocols and which ports they run on: :point_down:
+
+| Protocol | Port Number | Description |
+| -------- | ----------- | ----------- |
+| File Transfer Protocol (FTP) | 21 | This protocol is used for downloading files from a central location |
+| Secure Shell (SSH) | 22 | This protocol is used to login to different systems through a secure text-based system |
+| HyerText Transfer Protocol (HTTP) | 80 | This protocol is used to power the internet. Browsers use this to download text, images, and videos of web pages |
+| HyperText Transfer Protocol Secure (HTTPS) | 443 | This protocol has the same purpose as HTTP but it instead uses secure encryption algorithms |
+|Server Message Block (SMB) | 445 | This protocol is very similar to FTP but it also allows you to share different devices |
+| Remote Desktop Protocol (RDP) | 3389 | This protocol is used to securely login to a system using a visual desktop interface |
+
