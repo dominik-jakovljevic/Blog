@@ -74,3 +74,6 @@ Below is a table of the headers that both protocols share: :point_down:
 | Destination Port | The port number that the application or service is running on the remote host. An example of this would be a server running on a specific port. This port number is not chosen at randmom. |
 | Data | The header where the data of a file is stored |
 
+## Ports
+
+What is a ***port***? 
