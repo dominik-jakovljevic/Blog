@@ -48,3 +48,16 @@ A table of the special messages is below: :point_down:
 The data that gets sent through the network is given a number sequence that is random and is reconstructed at the end by using the number sequence and by incrementing by 1. One caviat is that both computers on the network have to agree on the same number sequence for the data. 
 
 Also, in order for TCP to close a connection, it has to determine that the receiving device has got all of its data. Since TCP has reserved system resources on all devices, it is a good idea to turn it off once it is done doing its job. 
+
+## UDP / IP
+
+Another protocol that we use when communicating between devices is the ***User Datagram Protocol (UDP)***. One great thing about UDP is that it doesn't require a constant connection between devices for the data to travel. Because of this, the Three-way handshake does not happen. 
+
+Below is a table of the advantages and disadvantages of using UDP: :point_down:
+
+| Advantages | Disadvantages |
+| ---------- | ------------- |
+| Much faster than TCP | UDP doesn't check if the data has been recieved or not |
+| UDP gives the application layer the ability to decide how quickly packets will be sent out | It lets developers bend the rules of the protocol |
+| A constant connection is not needed | Bad connections result in a bad user experience |
+
