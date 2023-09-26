@@ -45,3 +45,6 @@ A table of the special messages is below: :point_down:
 | 5    | FIN     | Once the connection is finished, it is then closed properly |
 | #    | RST     | This packet ends all communication. This indicates there was a problem somewhere |
 
+The data that gets sent through the network is given a number sequence that is random and is reconstructed at the end by using the number sequence and by incrementing by 1. One caviat is that both computers on the network have to agree on the same number sequence for the data. 
+
+Also, in order for TCP to close a connection, it has to determine that the receiving device has got all of its data. Since TCP has reserved system resources on all devices, it is a good idea to turn it off once it is done doing its job. 
