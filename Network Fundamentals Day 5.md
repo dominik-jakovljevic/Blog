@@ -42,6 +42,8 @@ Below is a table of the benefits of using a VPN: :point_down:
 
 ## Networking Devices
 
-What is a ***router***? 
+What is a ***router***? A router is a device in a network that connects other networks to each other. Routing is the term that describes data traveling across multiple networks. The router can be found at layer 3 (network) of the OSI Model. Most of the time, these routers come with a GUI such as a website that allows the administrator to configure things such as firewalls and port forwarding. 
+
+What is a ***switch***? 
 
 
