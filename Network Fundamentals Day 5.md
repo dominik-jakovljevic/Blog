@@ -17,3 +17,7 @@ The factors are: :point_down:
 * Which port is the traffic for 
 * The protocol that the traffic is using
 
+In order to answer the questions above :point_up: , firewalls have to perform packet inspection.
+
+How the firewall can look like depends on factors such as how large the networks are and how many users they are supporting. For example, a firewall that is supporting a large business with a lot of users can be a dedicated piece of hardware. But, there is also software such as Snort that can work as a firewall for smaller networks with fewer users. 
+
