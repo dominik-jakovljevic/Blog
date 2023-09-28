@@ -10,7 +10,7 @@ The device that is used to enable port forwarding is the router.
 
 What is a ***firewall***? A firewall is a device than can be found in a network and its job is to determine what sort of traffic will be allowed to enter or exit.  A network administrator can set the firewall to ***permit*** or ***deny*** traffic entering or exiting the networking depending on certain factors. 
 
-The factors are: :point_down|
+The factors are: :point_down:
 
 * Origin of the traffic (the firewall could be directed to accept or deny traffic coming from certain networks)
 * The destination of the traffic (the firewall could be directed to accept or deny traffic going to a certain network)
