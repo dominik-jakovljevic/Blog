@@ -19,5 +19,14 @@ The factors are: :point_down:
 
 In order to answer the questions above :point_up: , firewalls have to perform packet inspection.
 
-How the firewall can look like depends on factors such as how large the networks are and how many users they are supporting. For example, a firewall that is supporting a large business with a lot of users can be a dedicated piece of hardware. But, there is also software such as Snort that can work as a firewall for smaller networks with fewer users. 
+How the firewall can look like depends on factors such as how large the networks are and how many users they are supporting. For example, a firewall that is supporting a large business with a lot of users can be a dedicated piece of hardware. But, there is also software such as Snort that can work as a firewall for smaller networks with fewer users. One thing that applies to all firewalls is that they can be categorised into 2-5 categories. 
+
+A table with the two biggest categories of firewalls is below: :point_down:
+
+| Firewall Category | Description |
+| ----------------- | ----------- |
+| Stateful          | Stateful firewalls use all of the data from the connection instead of looking at individual packets. It decides the devices behavior depending on the entire connection. This type of firewall also uses up a lot more resources than other types. Also, if the connection from the host isn't reliable, the device will be blocked |
+| Stateless         | Stateless firewalls use certain rules to determine if individual packets should be accepted or not. If a device sends a bad packet it won't shut the entire device out of the network. These types of firewalls do use less resources but that also means that they are much dumber. Also, these types of firewalls are good when you are getting big amounts traffic from a set of hosts |
+
+
 
