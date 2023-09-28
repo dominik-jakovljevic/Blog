@@ -30,7 +30,16 @@ A table with the two biggest categories of firewalls is below: :point_down:
 
 ## VPN (Virtual Private Network)
 
-What is a ***VPN***?
+What is a ***VPN***? A VPN is a technology that enables devices located across several networks to talk to each other in a secure manner by making a dedicated pathway between them all on the Internet (we call these tunnels). All of the devices in these tunnels make up their own private network. 
+
+Below is a table of the benefits of using a VPN: :point_down:
+
+| Benefit | Description |
+| ------- | ----------- |
+| VPN's allow devices from anywhere in the world to be connected | One example of this would be a business with offices in different locations. With a VPN the devices at these different locations would be abletp communicate with themselves while shielding them from the outside world |
+| Privacy | VPN's offer privacy by encrypting data. Only devices on a private network can view each others messages |
+| It's annonymous | When you are using a VPN, it becomes harder to track the location of the device that you are using |
+
 
 
 
