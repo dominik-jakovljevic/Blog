@@ -44,6 +44,8 @@ Below is a table of the benefits of using a VPN: :point_down:
 
 What is a ***router***? A router is a device in a network that connects other networks to each other. Routing is the term that describes data traveling across multiple networks. The router can be found at layer 3 (network) of the OSI Model. Most of the time, these routers come with a GUI such as a website that allows the administrator to configure things such as firewalls and port forwarding. 
 
-What is a ***switch***? 
+What is a ***switch***? A switch is used to allow devices on a network to connect to other devices. At any given moment, a switch can support up to 63 devices using ethernet cables. We can find the switch on both layer 2 (data-link) and layer 3 (network) of the OSI Model. Layer 2 switches will send frames to other devices using their MAC addresses. But, layer 3 switches will send frames to devices and route packets to other devices in the network using IP protocol. 
+
+There is a technology called ***VLAN (Virtual Local Area Network)*** that allows certain devices in a network to be split up. This helps when you have dozens of devices on a network and need to divide them up based on what each device is for. People do this because of security reasons within companies. 
 
 
