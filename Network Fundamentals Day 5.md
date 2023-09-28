@@ -40,6 +40,8 @@ Below is a table of the benefits of using a VPN: :point_down:
 | Privacy | VPN's offer privacy by encrypting data. Only devices on a private network can view each others messages |
 | It's annonymous | When you are using a VPN, it becomes harder to track the location of the device that you are using |
 
+## Networking Devices
 
+What is a ***router***? 
 
 
