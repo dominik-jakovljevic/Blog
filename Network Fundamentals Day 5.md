@@ -30,7 +30,7 @@ A table with the two biggest categories of firewalls is below: :point_down:
 
 ## VPN (Virtual Private Network)
 
-What is a ***VPN***: 
+What is a ***VPN***?
 
 
 
