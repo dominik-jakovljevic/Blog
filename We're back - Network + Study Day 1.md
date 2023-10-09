@@ -151,4 +151,12 @@ You can troubleshoot using the ping command.
 
 You can ping to Google's DNS servers using this command on the mac terminal:
 
+    ping -D -s 1472 8.8.8.8
+
+Or this when you are on windows:
+
+    ping -f -l 1472 8.8.8.8
+
+This way you can see if your MTU is configured to the appropriate size
+
 
