@@ -12,5 +12,7 @@ For every layer in the ***OSI Model***, there are sets of protocols that are use
 
 A common acronym for the ***OSI Model*** is: All people seem to need data processing 
 
-## Layer 1 of the OSI Model
+## Layer 1 (Physical Layer) of the OSI Model
+
+***Layer 1*** of the OSI Model is called the ***physical layer***
 
