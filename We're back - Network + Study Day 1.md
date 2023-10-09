@@ -53,6 +53,20 @@ The protocols that are used at ***layer 4*** include:
 - TCP (Transmission Control Protocol)
 - UDP (User Datagram Protocol)
 
+## Layer 5 (Session) of the OSI Model
+
+***Layer 5*** of the OSI Model is called the ***session layer***
+
+This is where communication management between devices happens such as start, stop, and restart
+
+## Layer 6 (Presentation) of the OSI Model
+
+***Layer 6*** of the OSI model is called the ***presentation layer***
+
+***Layer 6*** is where character encoding and application encryption take place 
+
+This layer is often combined with layer 7 so we can actually use the applications 
+
 
 
 
