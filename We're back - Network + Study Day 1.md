@@ -8,3 +8,6 @@ The OSI Model is a model or guide, it's not a law in the world of computing
 
 When the OSI Model was first concieved, they wanted to implement the OSI protocol suite. But instead they went for TCP / IP
 
+For every layer in the OSI Model, there are sets of protocols that are used to make sure that the layers are operational
+
+A common acronym for the OSI Model is: All people seem to need data processing
