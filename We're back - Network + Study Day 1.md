@@ -99,4 +99,11 @@ When it's TCP it's called a TCP segment but when it's UDP it's called a UDP data
 
 Here is an example of how this works:
 
+Layers 5, 6, 7 - Application Data
+
+Layer 4 - TCP Header, Application Data
+
+Layer 3 - IP Header, TCP Header, Application Data
+
+Layer 2 - Frame Header, IP Header, TCP Header, Application Data, Frame Trailer
 
