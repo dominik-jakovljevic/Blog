@@ -77,8 +77,15 @@ This layer is what we see on our computers. For example the google page runs on 
 
 An example of all of these layers in action is when we used an application such as Gmail:
 
+1. Physical: Electrical signals
+2. Data Link: Ethernet
+3. Network: IP encapsulation
+4. Transport: TCP encapsulation
+5. Session: Link the presentation to the transport
+6. Presentation: SSL encryption
 7. Application: https://gmail.com
-6. 
+
+
 
 
 
