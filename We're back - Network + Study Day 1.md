@@ -121,3 +121,12 @@ These flags control the payload with these set of messages:
 - RST - Reset the connection
 - FIN - This signals the last packet from the sender
 
+### Maximum Transmission Unit (MTU)
+
+The ***maximum transmission unit*** is what we call a maximum IP packet to transmit without fragmenting it 
+
+The reason we avoid fragmentation is because it slows things down. When we lose a fragment we lose an entire packet of data and it requires a lot overhead along the path
+
+It is difficult to know the ***MTU*** all the way through the path. The automated methods are innacurate especially when you filter ICMP
+
+
