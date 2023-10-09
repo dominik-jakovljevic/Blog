@@ -32,5 +32,23 @@ The protocols that run at ***layer 2*** are called Data Link Control (DLC) proto
 
 Sometimes we call ***layer 2*** the switching layer
 
+## Layer 3 (Network) of the OSI Model
+
+***Layer 3*** of the OSI Model is called the ***network layer*** or even the routing layer
+
+This is the layer that works with IP (internet protocol)
+addresses
+
+Frames are fragmented (broken into smaller pieces)
+at ***layer 3***
+
+## Layer 4 (Transport) of the OSI Model
+
+***Layer 4*** of the OSI Model is called the ***transport layer*** 
+
+Sometimes we called ***layer 4*** the post office layer because it determines how and where the data will be delivered 
+
+
+
 
 
