@@ -20,3 +20,17 @@ This layer is where we can find all of the cables, connectors, and signaling. On
 
 When there is a problem on the ***physical layer*** it means that the cabling should be fixed, loopback tests should be ran, and swap adapter cards
 
+## Layer 2 (Data Link) of the OSI Model
+
+***Layer 2*** of the OSI Model is called the ***Data Link layer***
+
+We can find the foundation of the communication at this layer
+
+The protocols that run at ***layer 2*** are called Data Link Control (DLC) protocols and they include:
+
+- MAC (Media Access Control) address on Ethernet
+
+Sometimes we call ***layer 2*** the switching layer
+
+
+
