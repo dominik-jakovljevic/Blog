@@ -87,9 +87,16 @@ An example of all of these layers in action is when we used an application such 
 
 ## Data Communication
 
+### Protocol Data Unit (PDU)
 
+***Protocol Data Units (PDU)*** or transmission units is what is used to move data from one part of the network to another
 
+Ethernet operates on a frame of data which means that it doesn't care what's on the inside, its only job is to send it to another device
 
+IP operates on a packet of data which means that it finds either TCP or UDP inside but it doesn't care which
 
+When it's TCP it's called a TCP segment but when it's UDP it's called a UDP datagram
+
+Here is an example of how this works:
 
 
