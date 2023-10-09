@@ -77,7 +77,8 @@ This layer is what we see on our computers. For example the google page runs on 
 
 An example of all of these layers in action is when we used an application such as Gmail:
 
-7. 
+7. Application: https://gmail.com
+6. 
 
 
 
