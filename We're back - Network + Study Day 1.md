@@ -159,4 +159,14 @@ Or this when you are on windows:
 
 This way you can see if your MTU is configured to the appropriate size
 
+## Network Topologies
 
+***Network Topologies*** are useful in planning new networks such as the physical layouts of buildings and they assist in understanding signal flow 
+
+One of the most popular types of topologies is the ***star topology*** or sometimes called the hub topology. These are used in a lot of small and large networks and it connects all the devices to a single central device. The switch in the middle is connected to all of the devices in the network
+
+Another type of topology is called the ***ring topology***. It is mainly used in Metro Area Netowrks and Wide Area Networks. 
+
+The third type of topology is called the ***bus topology***. These were early local area networks that where the devices were connected by a coaxial cable. It is a simple topology but it is really prone to errors. If only one part breaks, the entire network is shut. 
+
+A really popular topology that is used in larger networks is the ***mesh topology***. Each device has multiple links to the same place. These are mostly used in the wide area networks (WANs).
