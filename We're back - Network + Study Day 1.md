@@ -16,3 +16,7 @@ A common acronym for the ***OSI Model*** is: All people seem to need data proces
 
 ***Layer 1*** of the OSI Model is called the ***physical layer***
 
+This layer is where we can find all of the cables, connectors, and signaling. One thing that this layer isn't about is about protocols. 
+
+When there is a problem on the ***physical layer*** it means that the cabling should be fixed, loopback tests should be ran, and swap adapter cards
+
