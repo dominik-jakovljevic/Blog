@@ -139,4 +139,16 @@ DLC Header | TCP Header | TCP Data | IP Header | FCS
 
 The maximum IP packet size you can send using ethernet is 1500 bytes
 
+### MTU Troubleshooting
+
+***MTU*** sizes are usually configured once. This is based on network infrastructure and don't change very often
+
+These sizes are a concern for tunneled traffic. The tunnel could be smaller than your local Ethernet segment
+
+What happens when you send packets with Don't Fragement (DF) set? When this happens the routers will respond back and tell you to fragment and at this point it is likely you will get the ICMP message.
+
+You can troubleshoot using the ping command. 
+
+You can ping to Google's DNS servers using this command on the mac terminal:
+
 
