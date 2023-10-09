@@ -129,4 +129,14 @@ The reason we avoid fragmentation is because it slows things down. When we lose 
 
 It is difficult to know the ***MTU*** all the way through the path. The automated methods are innacurate especially when you filter ICMP
 
+### Building an Ethernet frame
+
+TCP Header | TCP Data
+
+TCP Header | TCP Data | IP Header
+
+DLC Header | TCP Header | TCP Data | IP Header | FCS
+
+The maximum IP packet size you can send using ethernet is 1500 bytes
+
 
