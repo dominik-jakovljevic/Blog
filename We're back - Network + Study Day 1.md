@@ -67,7 +67,17 @@ This is where communication management between devices happens such as start, st
 
 This layer is often combined with layer 7 so we can actually use the applications 
 
+## Layer 7 (Application) of the OSI Model
 
+***Layer 7*** of the OSI model is called the ***application layer***
+
+This layer is what we see on our computers. For example the google page runs on ***layer 7***
+
+## Example
+
+An example of all of these layers in action is when we used an application such as Gmail:
+
+7. 
 
 
 
