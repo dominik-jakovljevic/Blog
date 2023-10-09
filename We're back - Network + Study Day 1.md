@@ -12,7 +12,7 @@ For every layer in the ***OSI Model***, there are sets of protocols that are use
 
 A common acronym for the ***OSI Model*** is: All people seem to need data processing 
 
-## Layer 1 (Physical Layer) of the OSI Model
+### Layer 1 (Physical Layer) of the OSI Model
 
 ***Layer 1*** of the OSI Model is called the ***physical layer***
 
@@ -20,7 +20,7 @@ This layer is where we can find all of the cables, connectors, and signaling. On
 
 When there is a problem on the ***physical layer*** it means that the cabling should be fixed, loopback tests should be ran, and swap adapter cards
 
-## Layer 2 (Data Link) of the OSI Model
+### Layer 2 (Data Link) of the OSI Model
 
 ***Layer 2*** of the OSI Model is called the ***Data Link layer***
 
@@ -32,7 +32,7 @@ The protocols that run at ***layer 2*** are called Data Link Control (DLC) proto
 
 Sometimes we call ***layer 2*** the switching layer
 
-## Layer 3 (Network) of the OSI Model
+### Layer 3 (Network) of the OSI Model
 
 ***Layer 3*** of the OSI Model is called the ***network layer*** or even the routing layer
 
@@ -42,7 +42,7 @@ addresses
 Frames are fragmented (broken into smaller pieces)
 at ***layer 3***
 
-## Layer 4 (Transport) of the OSI Model
+### Layer 4 (Transport) of the OSI Model
 
 ***Layer 4*** of the OSI Model is called the ***transport layer*** 
 
@@ -53,13 +53,13 @@ The protocols that are used at ***layer 4*** include:
 - TCP (Transmission Control Protocol)
 - UDP (User Datagram Protocol)
 
-## Layer 5 (Session) of the OSI Model
+### Layer 5 (Session) of the OSI Model
 
 ***Layer 5*** of the OSI Model is called the ***session layer***
 
 This is where communication management between devices happens such as start, stop, and restart
 
-## Layer 6 (Presentation) of the OSI Model
+### Layer 6 (Presentation) of the OSI Model
 
 ***Layer 6*** of the OSI model is called the ***presentation layer***
 
@@ -67,13 +67,13 @@ This is where communication management between devices happens such as start, st
 
 This layer is often combined with layer 7 so we can actually use the applications 
 
-## Layer 7 (Application) of the OSI Model
+### Layer 7 (Application) of the OSI Model
 
 ***Layer 7*** of the OSI model is called the ***application layer***
 
 This layer is what we see on our computers. For example the google page runs on ***layer 7***
 
-## Example
+### Example
 
 An example of all of these layers in action is when we used an application such as Gmail:
 
@@ -84,6 +84,10 @@ An example of all of these layers in action is when we used an application such 
 5. Session: Link the presentation to the transport
 6. Presentation: SSL encryption
 7. Application: https://gmail.com
+
+## Data Communication
+
+
 
 
 
