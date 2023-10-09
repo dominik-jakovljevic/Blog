@@ -170,3 +170,6 @@ Another type of topology is called the ***ring topology***. It is mainly used in
 The third type of topology is called the ***bus topology***. These were early local area networks that where the devices were connected by a coaxial cable. It is a simple topology but it is really prone to errors. If only one part breaks, the entire network is shut. 
 
 A really popular topology that is used in larger networks is the ***mesh topology***. Each device has multiple links to the same place. These are mostly used in the wide area networks (WANs).
+
+A really common type of topology is what we call a ***hybrid topology***. Most modern day networks are hybrid topologies which means they are a mix of the topologies above.
+
