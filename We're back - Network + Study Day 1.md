@@ -48,6 +48,11 @@ at ***layer 3***
 
 Sometimes we called ***layer 4*** the post office layer because it determines how and where the data will be delivered 
 
+The protocols that are used at ***layer 4*** include:
+
+- TCP (Transmission Control Protocol)
+- UDP (User Datagram Protocol)
+
 
 
 
