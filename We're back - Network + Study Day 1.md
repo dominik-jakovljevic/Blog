@@ -107,3 +107,17 @@ Layer 3 - IP Header, TCP Header, Application Data
 
 Layer 2 - Frame Header, IP Header, TCP Header, Application Data, Frame Trailer
 
+### TCP Flags
+
+The header describes or identifies the payload
+aka. here's what you're about to see
+
+The TCP header has important control information and includes a set of bits called ***TCP flags***
+
+These flags control the payload with these set of messages:
+
+- SYN - Synchronize sequence numbers
+- PSH - Push the data to the application without buffering 
+- RST - Reset the connection
+- FIN - This signals the last packet from the sender
+
