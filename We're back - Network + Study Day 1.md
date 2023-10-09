@@ -173,3 +173,21 @@ A really popular topology that is used in larger networks is the ***mesh topolog
 
 A really common type of topology is what we call a ***hybrid topology***. Most modern day networks are hybrid topologies which means they are a mix of the topologies above.
 
+## Network Types
+
+### P2P Networks
+
+In a ***Peer to Peer Network***, there are no servers or clients rather every device is a server and client. Everyone is talking to everybody
+
+Some advantages of this type of network is that they are really easy to deploy and they are low in cost
+
+Some disadvantages are that they are difficult to administer and difficult to secure
+
+### Client-Server
+
+In a client server, there is a central server where the clients talk to the server. None of the clients talk to each other
+
+Some advantages of this type of network include higher performance and easy to administer
+
+Some disadvantages of this type of network are that it costs a lot and that it is really complex
+
