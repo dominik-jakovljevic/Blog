@@ -223,5 +223,15 @@ These types of networks are used primarily in college campuses, medical hospital
 
 ### NAS
 
+***NAS*** which also stands for ***Network Attached Storage*** is a type of storage that is connected to a shared storage device across a network and gives you file-level access.
+
+This means that if you want to overide just 1 MB in 1 GB of storage that you will have to overide the whole 1 GB
+
+### SAN
+
+***SAN*** which also stands for ***Storage Area Network*** is a type of storage that feels like a local storage device. It is very efficient in reading and writing data
+
+One thing that they both have in common is that they both require a lot of bandwidth. Both also may use isolated networks and high-speed network technologies
+
 
 
