@@ -185,9 +185,43 @@ Some disadvantages are that they are difficult to administer and difficult to se
 
 ### Client-Server
 
-In a client server, there is a central server where the clients talk to the server. None of the clients talk to each other
+In a ***client server***, there is a central server where the clients talk to the server. None of the clients talk to each other
 
 Some advantages of this type of network include higher performance and easy to administer
 
 Some disadvantages of this type of network are that it costs a lot and that it is really complex
+
+### Local Area Network (LAN)
+
+A Local Area Network is relative. They usually are in the buildings in which you are in right now and provide the building with high speed connectivity. This is usually done through ethernet cables
+
+### Metropolitan Area Network (MAN)
+
+The ***MAN*** is used as a network in your city. These types of networks are larger than LAN's but smaller than WAN's
+
+It's very common for governments to use ***MAN*** because of how dispersed government offices can be
+
+### Wide Area Network (WAN)
+
+These types of networks span the globe. ***WAN*** connects LAN that spane long distances. But ***WAN*** is slower than LAN connectivity.
+
+### Wireless Local Area Network (WLAN)
+
+These types of networks are usually used in buildings and geographically remote locations
+
+It is possible to expand the coverage of a ***WLAN*** but adding additional access points
+
+### Personal Area Network (PAN)
+
+These types of networks are used in our everyday lives. Examples of these type of networks are mobile hotpsots, bluetooth, and wireless technology
+
+### Campus Area Network (CAN)
+
+These types of networks are used primarily in college campuses, medical hospitals, and just any group of buildings that need to share the same information. These achieve this using high speed Ethernet
+
+## NAS vs SAN
+
+### NAS
+
+
 
